@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:sliverappbar/Curved.dart';
+
+import '../widgets/curved.dart';
 
 class Home extends StatefulWidget {
   const Home({super.key});
